@@ -14,7 +14,7 @@
 ![MySql](https://img.shields.io/badge/mysql-000?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&theme=transparent&bg_color=000&hide_title=true&border_color=000&show_icons=true&icon_color=E94D5F&title_color=30A3DC&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alissonwr&theme=transparent&bg_color=000&hide_title=true&border_color=000&show_icons=true&icon_color=E94D5F&title_color=30A3DC&text_color=FFF)
 
 ## Minhas Contribuições
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=alissonwr&repo=dio-lab-open-source&bg_color=000&border_color=000&show_icons=true&icon_color=E94D5F&title_color=FFFC&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
