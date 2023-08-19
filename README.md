@@ -1,8 +1,8 @@
 # Alisson Wendel
 
 ## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/alisson-wendel-a46364131/)
-[![Email](https://img.shields.io/badge/email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=0E76A8)](https://outlook.live.com/mail/0/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=E94D5F)](https://www.linkedin.com/in/alisson-wendel-a46364131/)
+[![Email](https://img.shields.io/badge/email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](https://outlook.live.com/mail/0/)
 
 ## Habilidades
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&)
